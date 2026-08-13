@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <strong>Othman · Développeur full-stack</strong><br>
+  <strong>Othman · Développeur</strong><br>
   Bots · Sites web · APK · Tutoriels
 </p>
 
