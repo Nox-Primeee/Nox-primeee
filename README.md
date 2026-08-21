@@ -1,4 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff6b6b&height=220&section=header&text=👋%20OTHMAN%20%7C%20NOX%20PRIMEEE%20OFFICIAL&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Developer%20%7C%20Bot%20Creator%20%7C%20Open%20Source&descAlignY=60&descSize=18"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Real+Name:+Othman+%F0%9F%91%8B;WhatsApp+Bot+Developer+%F0%9F%A4%96;JavaScript+%2F+Node.js+Enthusiast+%F0%9F%9A%80;Open+Source+Creator+%F0%9F%8C%9F;Anime+%26+Tech+Lover+%F0%9F%8E%8C" alt="Typing SVG"/>
+</p>
 
 <!--
 **Nox-Primeee/Nox-primeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
