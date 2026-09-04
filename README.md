@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff6b6b&height=220&section=header&text=👋%20OTHMAN%20%7C%20NOX%20PRIMEEE%20OFFICIAL&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Developer%20%7C%20Bot%20Creator%20%7C%20Open%20Source&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:7b2ff7,100:ff6b6b&height=220&section=header&text=%20OTHMAN%20%7C%20NOX%20PRIMEEE%20OFFICIAL&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Developer%20%7C%20Bot%20Creator%20%7C%20Open%20Source&descAlignY=60&descSize=18"/>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <strong>Othman · Développeur</strong><br>
-  Bots · Sites web · APK · Tutoriels
+  Bots · Sites web · Tutoriels
 </p>
 
 <p align="center">
