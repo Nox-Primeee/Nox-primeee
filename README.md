@@ -46,19 +46,26 @@ Here are some ideas to get you started:
   Bots · Sites web · Tutoriels
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/nox-primeee">
-    <img src="https://img.shields.io/badge/GitHub-nox--primeee-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/Nox-Primeee">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029VbDGOyfJuyAGSRBPAl0B">
-    <img src="https://img.shields.io/badge/WhatsApp-Chaîne-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  <a href="https://youtube.com/NoxPrimeeeinc">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://noxblog.onrender.com">
-    <img src="https://img.shields.io/badge/Blog-NOX_PRIMEEE-ff6b6b?style=for-the-badge&logo=blogger" alt="Blog">
+  <a href="https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="mailto:noxprimeee80@google.com">
-    <img src="https://img.shields.io/badge/Email-noxprimeee80@google.com-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+  <a href="https://www.instagram.com/NoxPrimeeeincNoxPrimeeeinc==">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nox-Primeee&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Real%20Name-OTHMAN-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Real Name"/>
 </p>
 
 <p align="center">
