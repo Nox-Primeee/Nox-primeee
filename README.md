@@ -5,7 +5,7 @@
 <h1 align="center">
   <img src="https://files.catbox.moe/8rk90e.png" width="64" height="64" alt="NOX PRIMEEE">
   <br>
-  NOX PRIMEEE
+  DEV NOX INC
 </h1>
 
 <p align="center">
@@ -42,10 +42,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
-<div align="center">
-
-<img src="profile/stats.svg" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=nox-primeee&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
 ---
 
@@ -62,3 +58,9 @@ const nox = {
   location: "Guinée",
   motto: "Code with passion, build with purpose."
 }
+```
+## MY STATISTICS ON GITHUB 
+<div align="center">
+
+<img src="profile/stats.svg" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=nox-primeee&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
