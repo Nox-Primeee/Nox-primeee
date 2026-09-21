@@ -12,13 +12,6 @@
   <strong>Othman · DEV</strong><br>
   Bots · Sites web · Tutoriels
 </p>
-## GitHub Stats
-
-<div align="center">
-
-<img src="profile/stats.svg" width="49%" alt="GitHub Stats" />
-<img src="https://streak-stats.demolab.com/?user=nox-primeee&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-
 
 <p align="center">
   <a href="https://github.com/Nox-Primeee">
@@ -49,10 +42,14 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
+<div align="center">
+
+<img src="profile/stats.svg" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=nox-primeee&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
 ---
 
-## 👨‍💻 À propos de moi
+## ABOUT ME
 
 ```javascript
 const nox = {
