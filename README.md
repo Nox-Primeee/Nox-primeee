@@ -12,6 +12,12 @@
   <strong>Othman · DEV</strong><br>
   Bots · Sites web · Tutoriels
 </p>
+## GitHub Stats
+
+<div align="center">
+
+<img src="profile/stats.svg" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=nox-primeee&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
 
 
 <p align="center">
