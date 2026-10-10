@@ -27,7 +27,9 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nox-primeee.readme&left_color=000000&right_color=00F0FF&left_text=Visitors)
+![Stars](https://img.shields.io/github/stars/SYRIX-COMPAGNIE?style=social)
+![Followers](https://img.shields.io/github/followers/SYRIX-COMPAGNIE?style=social)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nox-Primeee&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
